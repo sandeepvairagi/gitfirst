@@ -15,6 +15,7 @@ public class duplicat{
             }else{
                 System.out.println("false");
                 System.out.println("ddd");
+                System.out.println("mazze le rha exp kar k");
             }
         }
     }
